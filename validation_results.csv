@@ -1,0 +1,20 @@
+﻿Video,File,Type,Topic,Openness,Conscientiousness,Extroversion,Agreeableness,Neuroticism,Suspect
+1,F1 aspartame.mp4,Disinformacion,Aspartame causing cancer,Medium/High,Medium/High,Medium,Low,Medium,Medium
+2,F2_aspartame.MP4,Disinformacion,Aspartame causing cancer,Medium/High,Medium/High,High,Low,Medium,Medium
+3,T1_aspartame.mp4,Correction,Aspartame causing cancer,High,High,High,High,Low/Medium,Low
+4,C_aspartame.mp4,Debunking,Aspartame causing cancer,High,High,High,Low,Low/Medium,Low
+5,F1_asymptomatic.MP4,Disinformacion,The perceived danger of COVID-19,Medium/High,Low/Medium,Low/Medium,Low,Medium,Low/Medium
+6,F2_asymptomatic.mov,Disinformacion,The perceived danger of COVID-19,Low/Medium,Medium,Medium,High,Low/Medium,Medium
+7,T1_asymptomatic2.MP4,Correction,The perceived danger of COVID-19,Medium/High,Medium/High,High,Low,Medium,Low/Medium
+8,C_asymptomatic.MP4,Debunking,The perceived danger of COVID-19,High,Medium/High,High,Low,Medium,Low
+9,F1_left brain vs. Right brain.MP4,Disinformacion,Differentiating left vs. right-brained people,Medium/High,Low,Medium,Low,High,Medium/High
+13,F1_deathconspiracy.mov,Disinformacion,Alec Baldwin shooting incident,High,Medium,Medium,Low,High,High
+14,F2_deathconspiracy.mp4,Disinformacion,Alec Baldwin shooting incident,Medium/High,Low/Medium,Low,Low,High,Medium/High
+15,T1_deathconspiracy.mp4,Correction,Alec Baldwin shooting incident,High,High,High,Low,Low/Medium,Low
+17,F1_herd immunity .mov,Disinformacion,Natural immunity versus vaccinations,Medium/High,High,High,Normal,Low,Medium/High
+18,F2_Herd immunity.MP4,Disinformacion,Natural immunity versus vaccinations,Medium/High,Medium,Low,Normal,High,High
+19,T1_herd immunity.MP4,Correction,Natural immunity versus vaccinations,Medium,Medium,Low,Low,Medium/High,Low/Medium
+20,C_herd immunity.MP4,Debunking,Natural immunity versus vaccinations,High,High,High,Low,Medium,Low
+21,F1_Ivermectin.MP4,Disinformacion,Ivermectin for COVID-19 treatment,High,Medium/High,Medium,Normal,High,High
+22,F2_ivermectin2.MP4,Disinformacion,Ivermectin for COVID-19 treatment,Medium/High,High,High,Low,Medium,Medium/High
+24,C_Ivermectin.MP4,Debunking,Ivermectin for COVID-19 treatment,Low/Medium,High,High,High,Low/Medium,Low
